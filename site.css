@@ -1,0 +1,58 @@
+*{
+    font-family: "Lato", sans-serif;
+}
+
+
+.maining{
+    background-color: #000000;
+}
+.search-bb {
+    background-color: #eee5e9;
+    width: 500px;
+}
+.text-cnt{
+    width: 50%;
+}
+.text-cnt h1{
+
+    color:#eee5e9 ;
+}
+.btn-color{
+    background-color: #cf5c36;
+}
+.cnt{
+    color: #cf5c36;
+}
+.bnt{
+  color:#eee5e9 ;
+}
+.ent{
+    color: #EFC88B;
+}
+.home-1{
+    width: 80%;
+}
+.cover{
+    width: 350px;
+    height: 350px;
+}
+.pics{
+    gap: 15px;
+}
+.pics-1{
+    background-color: #cf5c36;
+    
+}
+.pizza{
+    width: 100%;
+    height: 80vh;
+    background-image: url(images/pic-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.text-3{
+    width: 50%;
+}
+.logos img{
+   gap: 50px;
+}
